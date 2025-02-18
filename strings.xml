@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="login">Авторизоваться</string>
+    <string name="phone_directory">Телефонный справочник</string>
+    <string name="tasks_and_notifications">Задачи и оповещения</string>
+    <string name="meeting_rooms">Переговорные комнаты</string>
+    <string name="admin">Администрирование</string>
+    <string name="add">Добавить</string>
+    <string name="add_new_user">Добавить нового пользователя</string>
+</resources>
